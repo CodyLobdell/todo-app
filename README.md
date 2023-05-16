@@ -5,7 +5,7 @@ Labs 31 &amp; 32
 
 # UML
 
-![Lab31&32](todo.jpg)
+![Lab31&32](img/Lab_31_32_UML.jpg "Lab31_32UML")
 
 > Describe how global state is consumed by the components.
 

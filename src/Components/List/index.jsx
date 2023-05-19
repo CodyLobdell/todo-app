@@ -1,6 +1,6 @@
 import { Pagination } from '@mantine/core';
 import React, { useState, useEffect, useContext } from 'react';
-import { SettingsContext } from '../../Context/Settings';
+import { SettingsContext } from '../../Context/settings';
 function List({ list, toggleComplete, showItem }) {
   const { state } = useContext(SettingsContext);
   const [currentPage, setPage] = useState(1);
